@@ -1,4 +1,4 @@
-# Environment Variables (Crucial for security)
+# Environment Variables
 .env
 .env.local
 .env.*
