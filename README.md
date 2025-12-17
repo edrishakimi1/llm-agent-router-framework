@@ -3,7 +3,7 @@
 An Python-based routing system that uses Large Language Models to classify customer queries and route them to the appropriate service agents.
 
 ##  Project Overview
-This framework solves the problem of manual query sorting by implementing an LLM-based Router. It intelligently directs users to either an **FAQ Agent or an Order Status Agent based on intent.
+This framework solves the problem of manual query sorting by implementing an LLM-based Router. It intelligently directs users to either an FAQ Agent or an Order Status Agent based on intent.
 
 
 
