@@ -1,10 +1,18 @@
-.venv
-
-# dotenv
+# Environment Variables (Crucial for security)
 .env
+.env.local
 .env.*
 
-# virtualenv
+# Virtual Environments
+.venv/
 venv/
-ENV/
 env/
+ENV/
+
+# Python cache and distribution
+__pycache__/
+*.py[cod]
+*$py.class
+dist/
+build/
+*.egg-info/
